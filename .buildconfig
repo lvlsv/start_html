@@ -1,0 +1,10 @@
+[default]
+name=Default
+runtime=host
+config-opts=
+run-opts=
+prefix=/home/idleo/.cache/gnome-builder/install/_gulp_sass_babel_bootstrap/host
+app-id=
+postbuild=
+prebuild=
+default=true
